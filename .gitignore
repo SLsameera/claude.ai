@@ -1,0 +1,33 @@
+# Node
+node_modules/
+/dist
+/build
+.env
+.env.*
+.vscode/
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+Thumbs.db
+
+# Python cache (if any)
+__pycache__/
+*.py[cod]
+
+# VSCode
+.history/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Coverage
+coverage/
